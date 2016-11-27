@@ -24,11 +24,6 @@ end
 
 def power(operand, power)
 	return operand ** power
-	#product = 1
-	#power.times do
-	#	product *= operand
-	#end
-	#return product
 end
 
 def factorial(number)
